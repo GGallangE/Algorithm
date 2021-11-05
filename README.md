@@ -1,2 +1,2 @@
 # Algorithm
-백준 알고리즘 코드
+BaekJun 알고리즘 코드
