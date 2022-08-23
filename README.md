@@ -1,2 +1,2 @@
 # Algorithm
-BaekJun 알고리즘 코드
+BaekJoon 단계별로 풀어보기를 풀어 보았습니다.
